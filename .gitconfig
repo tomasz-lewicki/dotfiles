@@ -1,3 +1,6 @@
+# This is Git's per-user configuration file.
 [user]
-	email = t.w.lewicki@gmail.com
 	name = Tomasz Lewicki
+	email = tlewicki@covariant.ai
+[pull]
+	ff = only
