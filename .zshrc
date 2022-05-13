@@ -116,3 +116,5 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
+# Make user@hostname appear in prompt
+PROMPT="%{$fg[white]%}%n@%{$fg[green]%}%m%{$reset_color%} ${PROMPT}"
