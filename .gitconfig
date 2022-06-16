@@ -4,3 +4,5 @@
 	email = tlewicki@covariant.ai
 [pull]
 	ff = only
+[log]
+	date = iso-local
